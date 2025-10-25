@@ -10,8 +10,8 @@ export default function Home() {
   // TODO: USE FRAMER_MOTION
   const jsonLd = {
     "@context": "https://schema.org",
-    "@type": "PhotographyBusiness",
-    name: "SONDER Photography",
+    "@type": "OnlineBusiness",
+    name: "Slowly Glowing",
     image: `${env.SITE_URL}/logo.jpg`,
     "@id": `${env.SITE_URL}`,
     url: `${env.SITE_URL}`,

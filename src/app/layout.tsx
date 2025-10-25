@@ -15,13 +15,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SONDER Photography | Professional Wedding Photography in Hungary",
+  title: "Slowly Glowing | Professional Wedding Photography in Hungary",
   description:
     "Capture your special moments with artistic vision and timeless elegance. Professional wedding photography services in Hungary.",
   keywords:
-    "wedding photography, Hungary wedding photographer, professional photography, wedding videography, SONDER photography",
+    "wedding photography, Hungary wedding photographer, professional photography, wedding videography, Slowly Glowing",
   openGraph: {
-    title: "SONDER Photography | Professional Wedding Photography in Hungary",
+    title: "Slowly Glowing | Professional Wedding Photography in Hungary",
     description:
       "Capture your special moments with artistic vision and timeless elegance",
     images: [
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
         url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "SONDER Photography",
+        alt: "Slowly Glowing",
       },
     ],
     locale: "en_US",
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "SONDER Photography | Professional Wedding Photography in Hungary",
+    title: "Slowly Glowing | Professional Wedding Photography in Hungary",
     description: "Professional wedding photography services in Hungary",
     images: ["/og-image.jpg"],
   },

@@ -6,8 +6,8 @@ export const metadata: Metadata = {
     process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000"
   ),
   title: {
-    template: "%s | SONDER Photography",
-    default: "SONDER Photography",
+    template: "%s | Slowly Glowing",
+    default: "Slowly Glowing",
   },
   description: "Professional wedding photography services",
 };
